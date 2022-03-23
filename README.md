@@ -1,6 +1,4 @@
 # RangeTree
-University project for elective course Multidimensional Data Structures. 
-
 Python implementation of multidimensional _Range Tree_ and 
 experimental evaluation with artificial and real data sets in the basic operations: 
 Build, Insert, Delete, Update, Searching (kNN) Queries.
